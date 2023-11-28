@@ -1,0 +1,15 @@
+.add-margin{
+    margin-top: 50px;
+}
+
+.wrapper{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: #131313;
+    color: #f1f1f1;
+    padding: 20px;
+}
